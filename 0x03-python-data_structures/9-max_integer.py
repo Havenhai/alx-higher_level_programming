@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 9-max_integer.py
+# hh
 
 
 def max_integer(my_list=[]):
@@ -13,4 +13,3 @@ def max_integer(my_list=[]):
             big = my_list[i]
 
     return (big)
-
