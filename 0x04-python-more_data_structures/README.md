@@ -17,6 +17,24 @@ Here's how you can create and work with sets in Python:
 
 ```python
 my_set = {1, 2, 3, 4, 5}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 my_set.add(6)
 my_set.remove(3)
 ```
@@ -39,5 +57,22 @@ my_dict['age'] = 31
 my_dict['country'] = 'USA'
 del my_dict['city']
 ```
+
+
+
+NXsshbbbbbbjhsbzbhjbsgVVHSGBJM, NBGVFCVSDFGHJKLLLLLOIUYTREWSXC
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In both sets and dictionaries, you can perform various operations to manipulate and retrieve data, making them essential data structures in Python for various use cases.
