@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-# 9-rectangle.py
-# Brennan D Baraban <375@holbertonschool.com>
+# 9-rectangle
 """Defines a Rectangle class."""
 
 

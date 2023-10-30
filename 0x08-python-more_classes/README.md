@@ -1,1 +1,2 @@
-hav
+Alx havu project
+python classes and objects

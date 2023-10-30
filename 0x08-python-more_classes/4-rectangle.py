@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-# 4-rectangle.py
-# Brennan D Baraban <375@holbertonschool.com>
+# 4-rectangle
 """Defines a Rectangle class."""
 
 
